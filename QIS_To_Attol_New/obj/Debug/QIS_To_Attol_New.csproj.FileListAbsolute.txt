@@ -1,0 +1,18 @@
+C:\Users\suzanna.vershinin\Desktop\DOT NET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.exe.config
+C:\Users\suzanna.vershinin\Desktop\DOT NET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.exe
+C:\Users\suzanna.vershinin\Desktop\DOT NET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.pdb
+C:\Users\suzanna.vershinin\Desktop\DOT NET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\Oracle.DataAccess.dll
+C:\Users\suzanna.vershinin\Desktop\DOT NET\QIS_To_Attol_New\QIS_To_Attol_New\obj\Debug\QIS_To_Attol_New.exe
+C:\Users\suzanna.vershinin\Desktop\DOT NET\QIS_To_Attol_New\QIS_To_Attol_New\obj\Debug\QIS_To_Attol_New.pdb
+C:\Users\suzanna.vershinin\Desktop\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.exe.config
+C:\Users\suzanna.vershinin\Desktop\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\obj\Debug\QIS_To_Attol_New.exe
+C:\Users\suzanna.vershinin\Desktop\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\obj\Debug\QIS_To_Attol_New.pdb
+C:\Users\suzanna.vershinin\Desktop\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.exe
+C:\Users\suzanna.vershinin\Desktop\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.pdb
+C:\Users\suzanna.vershinin\Desktop\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\Oracle.DataAccess.dll
+C:\Users\suzanna.vershinin\Desktop\suzanna\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.exe.config
+C:\Users\suzanna.vershinin\Desktop\suzanna\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\obj\Debug\QIS_To_Attol_New.exe
+C:\Users\suzanna.vershinin\Desktop\suzanna\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\obj\Debug\QIS_To_Attol_New.pdb
+C:\Users\suzanna.vershinin\Desktop\suzanna\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.exe
+C:\Users\suzanna.vershinin\Desktop\suzanna\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\QIS_To_Attol_New.pdb
+C:\Users\suzanna.vershinin\Desktop\suzanna\DOTNET\QIS_To_Attol_New\QIS_To_Attol_New\bin\Debug\Oracle.DataAccess.dll
